@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>/dev/loop - Audio</title>
+        <link>http://lincolnloop.com/blog/categories/podcast/</link>
+        <language>en-us</language>
+        <copyright>&#x2117; &amp; &#xA9; 2012 Lincoln Loop</copyright>
+        <itunes:subtitle>The Lincoln Loop podcast</itunes:subtitle>
+        <itunes:author>Lincoln Loop</itunes:author>
+        <itunes:summary>Lincoln Loopers gather to talk about web development, technology, and anything else that we've found interesting lately.</itunes:summary>
+        <description>Lincoln Loopers gather to talk about web development, technology, and anything else that we've found interesting lately.</description>
+        <itunes:owner>
+            <itunes:name>Lincoln Loop</itunes:name>
+            <itunes:email>info@lincolnloop.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://lincolnloop.com/static/img/logo.png" />
+        <itunes:category text="Technology">
+            <itunes:category text="Tech News"/>
+        </itunes:category>
+        <item>
+            <title>/dev/loop0</title>
+            <itunes:author>Lincoln Loop</itunes:author>
+            <itunes:summary>Today Brian Luft, Marco Louro, Pete Baumgartner, Brandon Konkle, and Yann Malet talk about configuration management and Salt, Selenium testing in Django 1.4, and the &amp;yet Realtime Conference.</itunes:summary>
+            <enclosure url="http://dl.dropbox.com/u/986573/devloop/dev-loop-0.mp3" length="58232329" type="audio/mpeg" />
+            <guid>dev-loop-0-audio</guid>
+            <pubDate>Fri, 9 Nov 2012 18:00:00 GMT</pubDate>
+            <itunes:duration>1:00:39</itunes:duration>
+            <itunes:keywords>django, python, web development, realtime, salt, config management, configuration, chef, selenium, node.js, socket.io, sock.js, engine.io</itunes:keywords>
+        </item>
+    </channel>
+</rss>
