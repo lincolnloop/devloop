@@ -13,7 +13,7 @@
             <itunes:name>Lincoln Loop</itunes:name>
             <itunes:email>info@lincolnloop.com</itunes:email>
         </itunes:owner>
-        <itunes:image href="http://lincolnloop.com/static/img/logo.png" />
+        <itunes:image href="http://devloop.lincolnloop.com/logo.png" />
         <itunes:category text="Technology">
             <itunes:category text="Tech News"/>
         </itunes:category>
