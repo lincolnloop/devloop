@@ -23,7 +23,6 @@
             <itunes:summary>Today Brian Luft, Marco Louro, Pete Baumgartner, Brandon Konkle, and Yann Malet talk about configuration management and Salt, Selenium testing in Django 1.4, and the &amp;yet Realtime Conference.</itunes:summary>
             <description>Today Brian Luft, Marco Louro, Pete Baumgartner, Brandon Konkle, and Yann Malet talk about configuration management and Salt, Selenium testing in Django 1.4, and the &amp;yet Realtime Conference.</description>
             <enclosure url="http://dl.dropbox.com/u/986573/devloop/dev-loop-0.mp3" length="58232329" type="audio/mpeg" />
-            <media:thumbnail url="http://devloop.lincolnloop.com/logo.png" />
             <guid>dev-loop-0-audio</guid>
             <link>http://lincolnloop.com/blog/2012/nov/9/devloop0/</link>
             <pubDate>Fri, 9 Nov 2012 18:00:00 GMT</pubDate>
