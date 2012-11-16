@@ -29,5 +29,17 @@
             <itunes:duration>1:00:39</itunes:duration>
             <itunes:keywords>django, python, web development, realtime, salt, config management, configuration, chef, selenium, node.js, socket.io, sock.js, engine.io</itunes:keywords>
         </item>
+        <item>
+            <title>/dev/loop1</title>
+            <itunes:author>Lincoln Loop</itunes:author>
+            <itunes:summary>Brandon Konkle, Michael Trythall, Pete Baumgartner and Yann Malet gather to talk about the Go programming language, SVG graphics, and the Bootstrap toolkit.</itunes:summary>
+            <description>Brandon Konkle, Michael Trythall, Pete Baumgartner and Yann Malet gather to talk about the Go programming language, SVG graphics, and the Bootstrap toolkit.</description>
+            <enclosure url="http://dl.dropbox.com/u/986573/devloop/dev-loop-1.m4a" length="75945508" type="audio/mpeg" />
+            <guid>dev-loop-1-audio</guid>
+            <link>http://lincolnloop.com/blog/2012/nov/16/devloop1/</link>
+            <pubDate>Fri, 16 Nov 2012 19:25:00 GMT</pubDate>
+            <itunes:duration>0:49:37</itunes:duration>
+            <itunes:keywords>django, python, web development, go, programming, svg, graphics, bootstrap, css, javascript</itunes:keywords>
+        </item>
     </channel>
 </rss>
