@@ -46,7 +46,7 @@
             <itunes:author>Lincoln Loop</itunes:author>
             <itunes:summary>Pete Baumgartner, Brian Luft, Graham King, and Brandon Konkle discuss disk encryption and password sharing, client-side or server-side template rendering for Javascript, Django Rest Framework, and Graphite.</itunes:summary>
             <description>Pete Baumgartner, Brian Luft, Graham King, and Brandon Konkle discuss disk encryption and password sharing, client-side or server-side template rendering for Javascript, Django Rest Framework, and Graphite.</description>
-            <enclosure url="http://dl.dropbox.com/u/986573/devloop/dev-loop-2.mp4" length="77305244" type="audio/mpeg" />
+            <enclosure url="http://dl.dropbox.com/u/986573/devloop/dev-loop-2.m4a" length="77305244" type="audio/mpeg" />
             <guid>dev-loop-2-audio</guid>
             <link>http://lincolnloop.com/blog/2012/dec/4/devloop2/</link>
             <pubDate>Tue, 4 Dec 2012 13:15:00 GMT</pubDate>
