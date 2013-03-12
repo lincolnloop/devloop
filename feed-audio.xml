@@ -22,7 +22,7 @@
             <itunes:author>Lincoln Loop</itunes:author>
             <itunes:summary>Today Brian Luft, Marco Louro, Pete Baumgartner, Brandon Konkle, and Yann Malet talk about configuration management and Salt, Selenium testing in Django 1.4, and the &amp;yet Realtime Conference.</itunes:summary>
             <description>Today Brian Luft, Marco Louro, Pete Baumgartner, Brandon Konkle, and Yann Malet talk about configuration management and Salt, Selenium testing in Django 1.4, and the &amp;yet Realtime Conference.</description>
-            <enclosure url="http://dl.dropbox.com/u/986573/devloop/dev-loop-0.mp3" length="58232329" type="audio/mpeg" />
+            <enclosure url="http://c7aedc8a58ebcf280155-71d1e2a3a3bedcb2041405993fd5f7fb.r63.cf1.rackcdn.com/dev-loop-0.mp3" length="58232329" type="audio/mpeg" />
             <guid>dev-loop-0-audio</guid>
             <link>http://lincolnloop.com/blog/2012/nov/9/devloop0/</link>
             <pubDate>Fri, 9 Nov 2012 18:00:00 GMT</pubDate>
@@ -34,7 +34,7 @@
             <itunes:author>Lincoln Loop</itunes:author>
             <itunes:summary>Brandon Konkle, Michael Trythall, Pete Baumgartner and Yann Malet gather to talk about the Go programming language, SVG graphics, and the Bootstrap toolkit.</itunes:summary>
             <description>Brandon Konkle, Michael Trythall, Pete Baumgartner and Yann Malet gather to talk about the Go programming language, SVG graphics, and the Bootstrap toolkit.</description>
-            <enclosure url="http://dl.dropbox.com/u/986573/devloop/dev-loop-1.mp3" length="75945508" type="audio/mpeg" />
+            <enclosure url="http://c7aedc8a58ebcf280155-71d1e2a3a3bedcb2041405993fd5f7fb.r63.cf1.rackcdn.com/dev-loop-1.mp3" length="75945508" type="audio/mpeg" />
             <guid>dev-loop-1-audio</guid>
             <link>http://lincolnloop.com/blog/2012/nov/16/devloop1/</link>
             <pubDate>Fri, 16 Nov 2012 19:25:00 GMT</pubDate>
@@ -46,7 +46,7 @@
             <itunes:author>Lincoln Loop</itunes:author>
             <itunes:summary>Pete Baumgartner, Brian Luft, Graham King, and Brandon Konkle discuss disk encryption and password sharing, client-side or server-side template rendering for Javascript, Django Rest Framework, and Graphite.</itunes:summary>
             <description>Pete Baumgartner, Brian Luft, Graham King, and Brandon Konkle discuss disk encryption and password sharing, client-side or server-side template rendering for Javascript, Django Rest Framework, and Graphite.</description>
-            <enclosure url="http://dl.dropbox.com/u/986573/devloop/dev-loop-2.mp3" length="77305244" type="audio/mpeg" />
+            <enclosure url="http://c7aedc8a58ebcf280155-71d1e2a3a3bedcb2041405993fd5f7fb.r63.cf1.rackcdn.com/dev-loop-2.mp3" length="77305244" type="audio/mpeg" />
             <guid>dev-loop-2-audio</guid>
             <link>http://lincolnloop.com/blog/2012/dec/4/devloop2/</link>
             <pubDate>Tue, 4 Dec 2012 13:15:00 GMT</pubDate>
@@ -58,12 +58,24 @@
             <itunes:author>Lincoln Loop</itunes:author>
             <itunes:summary>Brandon, Pete, Graham, and Yann discuss the new incredibly thin X1 Carbon laptop, Learn with Lincoln Loop, Django Weekly, Getting Started with Django, Android development, and working with VMs using virt-manager and KVM.</itunes:summary>
             <description>Brandon, Pete, Graham, and Yann discuss the new incredibly thin X1 Carbon laptop, Learn with Lincoln Loop, Django Weekly, Getting Started with Django, Android development, and working with VMs using virt-manager and KVM.</description>
-            <enclosure url="http://dl.dropbox.com/u/986573/devloop/dev-loop-3.mp3" length="47707569" type="audio/mpeg" />
+            <enclosure url="http://c7aedc8a58ebcf280155-71d1e2a3a3bedcb2041405993fd5f7fb.r63.cf1.rackcdn.com/dev-loop-3.mp3" length="47707569" type="audio/mpeg" />
             <guid>dev-loop-3-audio</guid>
             <link>http://lincolnloop.com/blog/2013/jan/29/dev-loop-3/</link>
             <pubDate>Tue, 29 Jan 2013 19:00:00 GMT</pubDate>
             <itunes:duration>0:49:40</itunes:duration>
             <itunes:keywords>x1 carbon, laptop, django, backbone.js, kvm, virtual machine, virtual machine manager, virt-manager, qemu, training</itunes:keywords>
+        </item>
+        <item>
+            <title>/dev/loop4</title>
+            <itunes:author>Lincoln Loop</itunes:author>
+            <itunes:summary>Pete, Brian, and Yann discuss a/b testing, PaaS (Heroku, GAE, etc.), Django 1.5's User model, and Firenze.</itunes:summary>
+            <description>Pete, Brian, and Yann discuss a/b testing, PaaS (Heroku, GAE, etc.), Django 1.5's User model, and Firenze.</description>
+            <enclosure url="http://c7aedc8a58ebcf280155-71d1e2a3a3bedcb2041405993fd5f7fb.r63.cf1.rackcdn.com/dev-loop-4.mp3" length="46646492" type="audio/mpeg" />
+            <guid>dev-loop-4-audio</guid>
+            <link>http://lincolnloop.com/blog/2013/mar/12/dev-loop-4/</link>
+            <pubDate>Tue, 12 Mar 2013 19:00:00 GMT</pubDate>
+            <itunes:duration>0:48:35</itunes:duration>
+            <itunes:keywords>a/b testing, paas, heroku, app engine, django, firenze</itunes:keywords>
         </item>
     </channel>
 </rss>
