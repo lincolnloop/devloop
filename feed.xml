@@ -77,5 +77,17 @@
             <itunes:duration>0:48:35</itunes:duration>
             <itunes:keywords>a/b testing, paas, heroku, app engine, django, firenze</itunes:keywords>
         </item>
+        <item>
+            <title>/dev/loop5</title>
+            <itunes:author>Lincoln Loop</itunes:author>
+            <itunes:summary>Pete, Michael, Marco and Yann talk about our emerging Salmon monitoring project, the growing world of JavaScript tools, and the challenge of web apps on mobile.</itunes:summary>
+            <description>Pete, Michael, Marco and Yann talk about our emerging Salmon monitoring project, the growing world of JavaScript tools, and the challenge of web apps on mobile.</description>
+            <enclosure url="http://c7aedc8a58ebcf280155-71d1e2a3a3bedcb2041405993fd5f7fb.r63.cf1.rackcdn.com/dev-loop-5.mp4" length="123814273" type="video/mp4" />
+            <guid>dev-loop-5</guid>
+            <link>http://lincolnloop.com/blog/2013/jun/25/dev-loop-5/</link>
+            <pubDate>Tue, 25 Jun 2013 19:00:00 GMT</pubDate>
+            <itunes:duration>0:45:45</itunes:duration>
+            <itunes:keywords>salmon, salt, chef, puppet, backbone, marionette, ember, mobile</itunes:keywords>
+        </item>
     </channel>
 </rss>
